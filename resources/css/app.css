@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.contact_entityname{
+    font-weight: 700;
+    color: #393939;
+    font-size: 1.2rem;
+    text-align: center;
+    padding-bottom: .5rem;
+    border-bottom: .2rem solid rgb(0,0,0,5%);
+}
+
+.contact_entity_value{
+    text-transform: uppercase;
+    text-align: center;
+    padding:1rem 0;
+    font-size: 1rem;
+}

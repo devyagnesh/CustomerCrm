@@ -1,0 +1,21 @@
+.contactWrapper{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contactWrapper form{
+    width:30rem;
+}
+
+.bg-dark{
+    background-color: #393939 !important;
+}
+
+.w-100{
+    width: 100%;
+    max-width: 100%;
+}
+
